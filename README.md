@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+## Name : Abdul kalaam k m
+## Register No : 212223230003
 
 ## Aim:
 
